@@ -10,7 +10,7 @@ body{
     position:absolute;
     width:800px;
     height:800px;
-    
+     padding-top:40px;
 }
 
 .box {
@@ -18,7 +18,7 @@ body{
     display:flex;
     align-items: center;
     justify-content: center;
- 
+ padding-top:40px;
     margin-top:60px;
     top:-10px;
    transform: rotate(0deg);
@@ -295,6 +295,7 @@ body{
     height:400;
     width:400;
 animation: none;
+     padding-top:40px;
 }
 
 
